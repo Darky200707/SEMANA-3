@@ -13,6 +13,7 @@ namespace Aplica01
         {
             Console.Write("Bienvenidos al curso de c#");
             Console.Write("Bienvenidos al curos de c#");
+            Console.Write("Bienvenidos al curos de c#");
             Console.ReadKey();
 
         }
