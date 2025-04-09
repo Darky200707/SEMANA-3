@@ -12,9 +12,9 @@ namespace Aplica01
         static void Main(string[] args)
         {
             Console.Write("Bienvenidos al curso de c#");
-            Console.Write("Bienvenidos al curos de c#");
-            Console.Write("Bienvenidos al curos de c#");
-            Console.Write("Bienvenidos al curos de c#");
+            Console.Write("Bienvenidos al curso de c#");
+            Console.Write("Bienvenidos al curso de c#");
+            Console.Write("Bienvenidos al curso de c#");
             Console.ReadKey();
 
         }
